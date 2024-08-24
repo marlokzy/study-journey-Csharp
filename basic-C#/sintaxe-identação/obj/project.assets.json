@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\basic-C#.csproj",
+      "projectUniqueName": "C:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\sintaxe-identação\\basic-C#.csproj",
       "projectName": "basic-C#",
-      "projectPath": "C:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\basic-C#.csproj",
+      "projectPath": "C:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\sintaxe-identação\\basic-C#.csproj",
       "packagesPath": "C:\\Users\\Marlon Rodrigues\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\obj\\",
+      "outputPath": "C:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\sintaxe-identação\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marlon Rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config"
