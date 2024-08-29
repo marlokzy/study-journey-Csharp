@@ -13,7 +13,7 @@
 
 - double
 
-- int: É um valor que representa o número sem casas decimais (	-2,147,483,648 to 2,147,483,647);
+- int: É um valor que representa o número sem casas decimais (-2,147,483,648 to 2,147,483,647);
 
 - float
 
@@ -24,3 +24,9 @@
 - short: Variação do int (-32,768 to 32,767);
 
 - ulong: Variação do int (0 to 18,446,744,073,709,551,615).
+
+### Os mais usados
+\_Númericos\_
+- Int
+- Long
+- Char (mas nem tanto)
