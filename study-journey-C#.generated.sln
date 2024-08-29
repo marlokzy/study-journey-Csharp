@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "basic-C#", "basic-C#", "{CDD7EBA0-1123-4709-9AFD-4060FC928D77}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "basic-C#", "basic-C#", "{D8B555BB-A8EC-41F8-8C26-A4E9A1DF95A1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basic-C#", "basic-C#\sintaxe-identação\basic-C#.csproj", "{AFDD170E-7FD0-4231-AA98-D3A023CC422D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basic-C#", "basic-C#\sintaxe-identação\basic-C#.csproj", "{D4813BCE-D69B-4BC5-B3FA-0BCD688E8884}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AFDD170E-7FD0-4231-AA98-D3A023CC422D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AFDD170E-7FD0-4231-AA98-D3A023CC422D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AFDD170E-7FD0-4231-AA98-D3A023CC422D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AFDD170E-7FD0-4231-AA98-D3A023CC422D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4813BCE-D69B-4BC5-B3FA-0BCD688E8884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4813BCE-D69B-4BC5-B3FA-0BCD688E8884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4813BCE-D69B-4BC5-B3FA-0BCD688E8884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4813BCE-D69B-4BC5-B3FA-0BCD688E8884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{AFDD170E-7FD0-4231-AA98-D3A023CC422D} = {CDD7EBA0-1123-4709-9AFD-4060FC928D77}
+		{D4813BCE-D69B-4BC5-B3FA-0BCD688E8884} = {D8B555BB-A8EC-41F8-8C26-A4E9A1DF95A1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8834309C-5F4D-49F6-B858-55BB771C842F}
