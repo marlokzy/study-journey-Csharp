@@ -10,7 +10,7 @@
 
 - byte: Variação do int (0 to 255);
 
-- decimal
+- decimal: Serve para representar um valor com 28-29 casas decimais (recomendado para representar valores monetários)
 
 - double
 
@@ -27,7 +27,25 @@
 - ulong: Variação do int (0 to 18,446,744,073,709,551,615).
 
 ### Os mais usados
-**Númericos**
+**Numéricos inteiros**
 - int
 - long
+
+**Strings/caractéres literais**
+- string
 - char (mas nem tanto)
+
+**Numéricos decimais**
+- decimal
+- double
+
+**Outros**
+- bool
+
+### **Tipo DateTime** ###
+
+- DateTime (recomendado para trabalhar com **datas** e horários)
+_exemplo:_
+
+DateTime dataAtual = DateTime.now; --> chamei o objeto DateTime e o método now, que puxa a data e o horário atual do computador.
+Console.WriteLine(dataAtual); --> imprimi a variável

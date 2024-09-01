@@ -7,7 +7,7 @@ namespace basic_C_.Models // como se fosse o endereço do arquivo
 {
     public class Pessoa // criamos a classe
     {
-        public string Nome { get; set; } // criação das propriedades que essa classe terá
+        public required string Nome { get; set; } // criação das propriedades que essa classe terá, adicionei o required só para parar o erro mas não precisa necessariamente dependendo da sua aplicação
         public int Idade { get; set; }
 
         public void Apresentar(){ // criamos o método
