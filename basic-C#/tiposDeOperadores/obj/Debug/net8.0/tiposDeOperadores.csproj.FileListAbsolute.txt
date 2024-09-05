@@ -1,0 +1,15 @@
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\bin\Debug\net8.0\tiposDeOperadores.exe
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\bin\Debug\net8.0\tiposDeOperadores.deps.json
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\bin\Debug\net8.0\tiposDeOperadores.runtimeconfig.json
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\bin\Debug\net8.0\tiposDeOperadores.dll
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\bin\Debug\net8.0\tiposDeOperadores.pdb
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\obj\Debug\net8.0\tiposDeOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\obj\Debug\net8.0\tiposDeOperadores.AssemblyInfoInputs.cache
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\obj\Debug\net8.0\tiposDeOperadores.AssemblyInfo.cs
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\obj\Debug\net8.0\tiposDeOperadores.csproj.CoreCompileInputs.cache
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\obj\Debug\net8.0\tiposDeOperadores.sourcelink.json
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\obj\Debug\net8.0\tiposDeOperadores.dll
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\obj\Debug\net8.0\refint\tiposDeOperadores.dll
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\obj\Debug\net8.0\tiposDeOperadores.pdb
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\obj\Debug\net8.0\tiposDeOperadores.genruntimeconfig.cache
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\tiposDeOperadores\obj\Debug\net8.0\ref\tiposDeOperadores.dll
