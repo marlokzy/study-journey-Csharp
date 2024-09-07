@@ -29,7 +29,29 @@
         // string b = 5.ToString(); --> mas você pode fazer assim tbm, que dá certo (add método .ToString())
         // Console.WriteLine(b);
 
+        //Conversão segura - TryParse
+        // string a = "15-"; // coloquei um - na string justamente para forçar um erro
+        // int b = 0;
+        // int.TryParse(a, out b);
+        // Console.WriteLine(b);
 
+        // Operadores condicionais
+
+        //if e else
+        // int quantidadeEmEstoque = 10;
+        // int quantidadeCompra = 5;
+        // bool possívelVenda = quantidadeEmEstoque >= quantidadeCompra;
+        // Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+        // Console.WriteLine($"Quantidade da compra: {quantidadeCompra}");
+        // Console.WriteLine($"É possível realizar a venda? {possívelVenda}");
+        // if (possívelVenda)
+        // {
+        //     Console.WriteLine("\nVenda realizada com sucesso!");
+        // } else {
+        //     Console.WriteLine("Desculpe, não temos a quantidade desejada em estoque!");
+        // }
+
+        
 
     }
 }

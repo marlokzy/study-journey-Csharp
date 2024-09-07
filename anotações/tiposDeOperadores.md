@@ -1,4 +1,4 @@
-## Tipos de operadores:
+# Tipos de operadores:
 
 ### De Atribuição
 
@@ -6,7 +6,7 @@
 - += --> Operador de atribuição com soma (int a += 10);
 - -= --> Operador de atribuição com subtração (int a -= 10);
 - *= --> Operador de atribuição com multiplicação (int a *= 10);
-- /= --> Operador de atribuição com divisão (int a /= 10);
+- /= --> Operador de atribuição com divisão (int a /= 10).
 
 **Cast ou Casting --> Processo de conversão de um tipo para outro**
 Existem duas formas de fazer isso:
@@ -25,3 +25,11 @@ _Não existe o Parse para conversão de números para string_
 **Boas práticas e recomendações**
 - Para converter de número para string: use o .ToString();
 - Para converter de string para número: use o Convert.ToInt32();
+
+**//Pesquisar mais sobre conversão segura com Convert.TryParse!!!**
+
+### Condicionais
+
+- if, else e elseif;
+- switch e case.
+
