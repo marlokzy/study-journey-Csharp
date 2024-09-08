@@ -30,6 +30,6 @@ _Não existe o Parse para conversão de números para string_
 
 ### Condicionais
 
-- if, else e elseif;
+- if, else e else if;
 - switch e case.
 

@@ -49,6 +49,41 @@
         //     Console.WriteLine("\nVenda realizada com sucesso!");
         // } else {
         //     Console.WriteLine("Desculpe, não temos a quantidade desejada em estoque!");
+        // }        
+        
+        //if, else e else if
+        // int quantidadeEmEstoque = 10;
+        // int quantidadeCompra = 0;
+        // bool possívelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
+        // Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+        // Console.WriteLine($"Quantidade da compra: {quantidadeCompra}");
+        // Console.WriteLine($"É possível realizar a venda? {possívelVenda}");
+        // if (quantidadeCompra == 0)
+        // {
+        //     Console.WriteLine("\nCompra inválida!");
+        // }
+        // else if (possívelVenda)
+        // {
+        //     Console.WriteLine("\nVenda realizada com sucesso!");
+        // } else {
+        //     Console.WriteLine("Desculpe, não temos a quantidade desejada em estoque!");
+        // }
+
+        // switch e case
+        // Console.WriteLine("Digite uma letra e descubra se é vogal:");
+        // string letra = Console.ReadLine();
+        // switch (letra)
+        // {
+        //     case "a": 
+        //     case "e":
+        //     case "i":
+        //     case "o":
+        //     case "u":
+        //         Console.WriteLine($"\nA letra {letra} é uma vogal!");
+        //         break;
+        //     default:
+        //         Console.WriteLine($"\nA letra {letra} não é uma vogal!");
+        //         break;
         // }
 
         
