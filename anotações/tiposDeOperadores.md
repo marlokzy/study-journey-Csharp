@@ -33,3 +33,13 @@ _Não existe o Parse para conversão de números para string_
 - if, else e else if;
 - switch e case.
 
+### Lógicos
+
+- Operador OR/OU (Pipe, || );
+- Operador AND/E (&&);
+- Operador NOT (!).
+
+---
+
+Toda conversão de valores há um risco de uma exceção, pois muitas vezes não podemos prever o tipo de dado que está vindo. Para realizar uma conversão segura, ou seja, em que há a possibilidade de falhar e não queremos que nosso código seja interrompido, podemos usar:
+R:  TryParse

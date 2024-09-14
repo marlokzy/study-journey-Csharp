@@ -86,7 +86,37 @@
         //         break;
         // }
 
-        
+        // Operadores lógicos
 
+        // OU
+        // bool ehMaiorDeIdade = false;
+        // bool possuiAutorizacaoDoResponsavel = false;
+        // if (ehMaiorDeIdade || possuiAutorizacaoDoResponsavel)
+        // {
+        //     Console.WriteLine("Entrada liberada!");
+        // } else
+        // {
+        //     Console.WriteLine("Entrada não liberada!");
+        // }
+
+        // E
+        // bool possuiPresencaMinima = true;
+        // double media = 7.5;
+        // if (possuiPresencaMinima && media >= 7)
+        // {
+        //     Console.WriteLine("Aprovado!");
+        // } else {
+        //     Console.WriteLine("Reprovado!");
+        // }
+
+        // NOT
+        bool choveu = true;
+        bool estaTarde = true;
+        if (!choveu && !estaTarde)
+        {
+            Console.WriteLine("Vou pedalar!");
+        } else {
+            Console.WriteLine("Vou pedalar outro dia!");
+        }
     }
 }
