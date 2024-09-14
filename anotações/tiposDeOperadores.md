@@ -43,3 +43,19 @@ _Não existe o Parse para conversão de números para string_
 
 Toda conversão de valores há um risco de uma exceção, pois muitas vezes não podemos prever o tipo de dado que está vindo. Para realizar uma conversão segura, ou seja, em que há a possibilidade de falhar e não queremos que nosso código seja interrompido, podemos usar:
 R:  TryParse
+
+### Aritméticos
+
+- Adição (+)
+- Subtração (-)
+- Multiplicação (*)
+- Divisão (/)
+- Resto da divisão ou módulo (%)
+- Incremento (++)
+- Decremento (--)
+
+**Para calculos mais complexos utilizamos a classe Math**
+_Ex:_  
+- Math.Pow(3, 3); potencia de 3 sobre 3
+- Math.Round(x, 4); arredonda o x com apenas 4 casas decimais
+

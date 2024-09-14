@@ -1,4 +1,6 @@
-﻿public class TiposDeOperadores
+﻿using tiposDeOperadores;
+
+public class TiposDeOperadores
 {
     public static void Main()
     {   // Operadores de Atribuição
@@ -110,13 +112,39 @@
         // }
 
         // NOT
-        bool choveu = true;
-        bool estaTarde = true;
-        if (!choveu && !estaTarde)
-        {
-            Console.WriteLine("Vou pedalar!");
-        } else {
-            Console.WriteLine("Vou pedalar outro dia!");
-        }
+        // bool choveu = true;
+        // bool estaTarde = true;
+        // if (!choveu && !estaTarde)
+        // {
+        //     Console.WriteLine("Vou pedalar!");
+        // } else {
+        //     Console.WriteLine("Vou pedalar outro dia!");
+        // }
+
+        // Operadores aritméticos
+
+        // Operadores básicos por meio de métodos
+        Calculadora calc = new Calculadora();
+        // calc.Somar(10, 30);
+        // calc.Subtrair(10, 30);
+        // calc.Multiplicar(10, 30);
+        // calc.Dividir(4, 2);
+        // calc.Potencia(3, 3); // usando a classe Math com o método Pow
+        // calc.Seno(30);
+        // calc.Coseno(30);
+        // calc.Tangente(30);
+
+        // incremento e decremento
+        // int numInc = 10;
+        // Console.WriteLine(numInc);       
+        // numInc++;
+        // Console.WriteLine($"Incrementado {numInc}");
+
+        // int numDec = 10;
+        // Console.WriteLine(numDec);        
+        // numDec--; 
+        // Console.WriteLine($"Decrementado {numDec}");
+
+        calc.RaizQuadrada(16);
     }
 }
