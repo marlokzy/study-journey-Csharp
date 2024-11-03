@@ -1,0 +1,15 @@
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\obj\Debug\net8.0\estruturaDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\obj\Debug\net8.0\estruturaDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\obj\Debug\net8.0\estruturaDeRepeticao.AssemblyInfo.cs
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\obj\Debug\net8.0\estruturaDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\obj\Debug\net8.0\estruturaDeRepeticao.sourcelink.json
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\bin\Debug\net8.0\estruturaDeRepeticao.exe
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\bin\Debug\net8.0\estruturaDeRepeticao.deps.json
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\bin\Debug\net8.0\estruturaDeRepeticao.runtimeconfig.json
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\bin\Debug\net8.0\estruturaDeRepeticao.dll
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\bin\Debug\net8.0\estruturaDeRepeticao.pdb
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\obj\Debug\net8.0\estruturaDeRepeticao.dll
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\obj\Debug\net8.0\refint\estruturaDeRepeticao.dll
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\obj\Debug\net8.0\estruturaDeRepeticao.pdb
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\obj\Debug\net8.0\estruturaDeRepeticao.genruntimeconfig.cache
+C:\Users\Marlon Rodrigues\Downloads\study-journey-C#\basic-C#\estruturaDeRepeticao\obj\Debug\net8.0\ref\estruturaDeRepeticao.dll

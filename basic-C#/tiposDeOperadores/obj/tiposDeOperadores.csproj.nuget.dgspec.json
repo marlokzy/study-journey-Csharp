@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\tiposDeOperadores\\tiposDeOperadores.csproj": {}
+    "c:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\tiposDeOperadores\\tiposDeOperadores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\tiposDeOperadores\\tiposDeOperadores.csproj": {
+    "c:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\tiposDeOperadores\\tiposDeOperadores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\tiposDeOperadores\\tiposDeOperadores.csproj",
+        "projectUniqueName": "c:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\tiposDeOperadores\\tiposDeOperadores.csproj",
         "projectName": "tiposDeOperadores",
-        "projectPath": "C:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\tiposDeOperadores\\tiposDeOperadores.csproj",
+        "projectPath": "c:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\tiposDeOperadores\\tiposDeOperadores.csproj",
         "packagesPath": "C:\\Users\\Marlon Rodrigues\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\tiposDeOperadores\\obj\\",
+        "outputPath": "c:\\Users\\Marlon Rodrigues\\Downloads\\study-journey-C#\\basic-C#\\tiposDeOperadores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marlon Rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config"
